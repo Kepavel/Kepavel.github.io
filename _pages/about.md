@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "this's Keparal's personal websites"
+title: "This's Keparal's personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
