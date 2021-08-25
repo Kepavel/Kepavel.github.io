@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+feel free to give any suggestions to me
+
 
 Education
 ======
