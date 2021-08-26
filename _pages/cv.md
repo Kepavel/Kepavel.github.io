@@ -31,12 +31,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Program languages: 
+  * Proficient: C/C++, jave
+  * Competent: python
+* Database related:
+  * Proficient: SQL, SQLite
+  * Competent: Hadoop
+* Lunix
+* Web development:
+  * HTML, Javascript
+  * WordPress
+  * Apache
+* MarkDown
+* Git, SVN
+* Photoshop, Adobe CC
+* 
 
 Publications
 ======
