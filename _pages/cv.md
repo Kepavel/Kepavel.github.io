@@ -38,14 +38,15 @@ Skills
   * Proficient: SQL, SQLite
   * Competent: Hadoop
 * Lunix
+* Spring, Swagger
 * Web development:
   * HTML, Javascript
   * WordPress
   * Apache
 * MarkDown
-* Git, SVN
+* Git
 * Photoshop, Adobe CC
-* 
+
 
 Publications
 ======
