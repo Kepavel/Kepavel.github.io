@@ -20,49 +20,48 @@ Education
 ======
 * Zhengzhou University（Sep.2016-Jun.2020）
   * Bachelor of  Computer Science and Technology
-  * General GPA: 3.09/4.0, Major GPA: 
-  * Ranking:
+  * General GPA: 3.09/4.0, Major GPA: 3.31/4.0
 
 Work experience
 ======
 * **2019.06-2019.07: internship** 
-  * Company: [Henan 863 Software Co.,Ltd(河南省863股份有限公司)](https://www.863soft.com/cn/)
+  * Company: [Henan 863 Software Co.,Ltd](https://www.863soft.com/cn/)
   * Duties included: Processing massive data with Hadoop and analysis data 
 
 * **2021.02-2021.06: internship**
-  * Company: [ZJ UNIS(中交紫光)](http://www.zjunis.com/zhyy)
+  * Company: [ZJ UNIS](http://www.zjunis.com/zhyy)
   * Duties included: back-end developer using Java
 
   
 * **2021.06-now: full-time**
-  * Company: [MediaTek(联发科技)](https://www.mediatek.com/)
+  * Company: [MediaTek](https://www.mediatek.com/)
   * Duties included: Android developer
 
   
  Skills
 ======
-* Program languages: 
-  * Proficient: C/C++, jave
-  * Competent: python
-* Database related:
-  * Proficient: SQL, SQLite
-  * Competent: Hadoop
-* operating system:
-  * Proficient: Windows, Linux
-* Spring, Swagger
-* Web development:
-  * HTML, Javascript
-  * WordPress
-  * Apache
-* MarkDown
-* Git
-* Photoshop, Adobe CC
+* Program languages: Java, C/C++, Python
+* Database related: SQL, SQLite, Hadoop
+* Operating system: Windows, Linux
+* Web development: HTML, Javascript
+* MarkDown: Git
+* Other: Photoshop, Adobe CC
 
+Projects
+======
+* Rhythm player(app): 
+  * C++, Java
+  * Using SoundTouch open source libraries to build a Music player with step frequency and beat matching
+  * main functions：bmp analysis, step frequency detection, mp3 player
+
+* Logistics management system:
+  * Java, Jave web
+  * Using Hibernate, Tomcat, and SQL server to build a Integrated logistics system, included web, and app
+  * mian functions: QR code scanning, web dynamic update, location
 
 Honors and awards
 =====
 *  2018 China robot and artificial intelligence competition, Second Level (November, 2018)
 *  Zhengzhou University College of Information Engineering Annual Outstanding Student, Second Level (September, 2017)
-*  Zhengzhou University College of Information Engineering Annual Outstanding Student, Second Level (September, 2018)
   
   
