@@ -67,6 +67,6 @@ Honors and awards
 
 Attachments
 =====
-*Certificate of Bachelor's Degree & Diploma & Academic Record
+* [Certificate of Bachelor's Degree](http://Kepavel.github.io/files/202109061443174647623.pdf) & [Diploma](http://Kepavel.github.io/files/202109061443366461385.pdf) & [Academic Record](http://Kepavel.github.io/files/202109061444144097138.pdf)
   
   
