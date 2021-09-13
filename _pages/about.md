@@ -15,7 +15,7 @@ I became the FIRA 5VS5 team leader in the second year after I joined the lab, ma
 
 I started learning computer programming when I was a high school student. I like programming. I am proficient with C++ and Java. I have used them to take many programming contests. I can also use python and C by doing some course works.
 
-I like listening to music, jogging, and reading science fiction.
+I like listening to music, jogging, and watching movies.
 
 To learn more about me, you can have a view of my CV page [here](https://www.keparal.cn/cv/).
 
