@@ -63,5 +63,10 @@ Honors and awards
 =====
 *  2018 China robot and artificial intelligence competition, Second Level (November, 2018)
 *  Zhengzhou University College of Information Engineering Annual Outstanding Student, Second Level (September, 2017)
+
+
+Attachments
+=====
+*Certificate of Bachelor's Degree & Diploma & Academic Record
   
   
