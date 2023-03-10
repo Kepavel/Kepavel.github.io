@@ -57,7 +57,7 @@ Projects
 * Logistics management system:
   * Java, Jave web
   * Using Hibernate, Tomcat, and SQL server to build a Integrated logistics system, included web, and app
-  * mian functions: QR code scanning, web dynamic update, location
+  * main functions: QR code scanning, web dynamic update, location
 
 Honors and awards
 =====
