@@ -12,52 +12,52 @@ redirect_from:
 Personal Details
 ======
 
-* Chaoqun Li
+* Name: Chaoqun Li
 * Email: keparal@outlook.com
 * Moblie: +86-13592629432
 
 Education
 ======
 * Zhengzhou University（Sep.2016-Jun.2020）
-  * Bachelor of  Computer Science and Technology
-  * General GPA: 3.09/4.0, Major GPA: 3.31/4.0
+  * Bachelor's degree in Computer Science and Technology
+  * Cumulative GPA: 3.09/4.0, Major GPA: 3.31/4.0
 
 Work experience
 ======
-* **2019.06-2019.07: internship** 
+* **2019.06-2019.08: internship** 
   * Company: [Henan 863 Software Co.,Ltd](https://www.863soft.com/cn/)
-  * Duties included: Processing massive data with Hadoop and analysis data 
+  * Duties included: Processing massive data with Hadoop and data analysis 
 
 * **2021.02-2021.06: internship**
   * Company: [ZJ UNIS](http://www.zjunis.com/zhyy)
-  * Duties included: back-end developer using Java
+  * Duties included: Back-end developer utilizing Java
 
   
-* **2021.06-now: full-time**
+* **2021.05-Present: full-time**
   * Company: [MediaTek](https://www.mediatek.com/)
-  * Duties included: Android developer
+  * Duties included: Involved in Android development
 
   
  Skills
 ======
-* Program languages: Java, C/C++, Python
-* Database related: SQL, SQLite, Hadoop
-* Operating system: Windows, Linux
-* Web development: HTML, Javascript
-* MarkDown: Git
-* Other: Photoshop, Adobe CC
+* Program Languages: Java, C/C++, Python
+* Database Tools: SQL, SQLite, Hadoop
+* Operating Systems: Windows, Linux
+* Web Development: HTML, Javascript
+* Version Control: Git
+* Additional Tools: ChatGPT4
 
 Projects
 ======
-* Rhythm player(app): 
+* Rhythm Player Application: 
   * C++, Java
-  * Using SoundTouch open source libraries to build a Music player with step frequency and beat matching
-  * main functions：bmp analysis, step frequency detection, mp3 player
+  * Used [SoundTouch open source libraries](https://www.surina.net/soundtouch/) to develop a music player with step frequency and music beat matching.
+  * Core features：BPM analysis, step frequency detection, MP3 player.
 
 * Logistics management system:
   * Java, Jave web
-  * Using Hibernate, Tomcat, and SQL server to build a Integrated logistics system, included web, and app
-  * main functions: QR code scanning, web dynamic update, location
+  * Utilized Hibernate, Tomcat, and SQL server to construct an integrated logistics system, consisting of web application and mobile app
+  * Core features: QR code scanning, web dynamic updating, location tracking.
 
 Honors and awards
 =====
