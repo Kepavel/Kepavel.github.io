@@ -14,7 +14,7 @@ A year after joining the lab, I became the FIRA 5VS5 team leader. As our team co
 
 I started learning computer programming when I was a high school student. I've developed a strong passion for programming over the years. I am proficient with C++ and Java. I use them a lot during my daily work. Additionally, I've gained experience with Python and C through a number of coursework projects. My favorite programming language is C++ which I think is elegant and effective. Despite the occasional challenges I experience with reading and debugging code in this language, I still hold a strong preference for it.
 
-During my downtime, I like playing games and skateboarding, you may find me at Wangjing Park trying to pull off kickflips on a skateboard every weekends. Also I am trying to play Elden Ring recently, still blocking in Ancestor Spirit.
+During my downtime, I like playing games and skateboarding, you may find me at Wangjing Park trying to pull off kickflips on a skateboard every weekends. Also I am starting to play Elden Ring recently, still blocking in Ancestor Spirit.
 
 To learn more about me, you can have a view of my CV page [here](https://www.keparal.cn/cv/).
 
