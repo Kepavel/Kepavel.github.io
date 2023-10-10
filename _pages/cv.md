@@ -20,20 +20,19 @@ Education
 ======
 * Zhengzhou University（Sep.2016-Jun.2020）
   * Bachelor's degree in Computer Science and Technology
-  * Cumulative GPA: 3.09/4.0, Major GPA: 3.31/4.0
+  * Cumulative GPA: 3.09/4.0, Major GPA: 3.41/4.0
 
 Work experience
 ======
-* **2019.06-2019.08: internship** 
+* **2019.06-2019.09: internship** 
   * Company: [Henan 863 Software Co.,Ltd](https://www.863soft.com/cn/)
   * Duties included: Processing massive data with Hadoop and data analysis 
 
 * **2021.02-2021.06: internship**
   * Company: [ZJ UNIS](http://www.zjunis.com/zhyy)
   * Duties included: Back-end developer utilizing Java
-
   
-* **2021.05-Present: full-time**
+* **2021.06-Present: full-time**
   * Company: [MediaTek](https://www.mediatek.com/)
   * Duties included: Involved in Android development
 
@@ -45,7 +44,6 @@ Work experience
 * Operating Systems: Windows, Linux
 * Web Development: HTML, Javascript
 * Version Control: Git
-* Additional Tools: ChatGPT4
 
 Projects
 ======
