@@ -22,6 +22,12 @@ Education
   * Bachelor's degree in Computer Science and Technology
   * Cumulative GPA: 3.09/4.0, Major GPA: 3.41/4.0
 
+Research experience
+======
+* **Graduation Desgin: Pedestrian Safety Helmet Wearing Detection** 
+  * Keyswords: Deep learning, target detection, Yolo v3, Color detection.
+    
+
 Work experience
 ======
 * **2019.06-2019.09: internship** 
