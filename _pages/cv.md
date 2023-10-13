@@ -24,8 +24,10 @@ Education
 
 Research experience
 ======
-* **Graduation Desgin: Pedestrian Safety Helmet Wearing Detection** 
-  * Keyswords: Deep learning, target detection, Yolo v3, Color detection.
+* **Graduation Desgin: Pedestrian Safety Helmet Wearing Detection**
+  * Based on Background modeling, pedestrian detection, Yolo v3 and color feature recognition to detect construction in real-time pedestrains on site and capture their helmet wearing status.
+  * Keyswords: Background modeling; Yolo v3; pedestrian detection; deep learning; color feature detection;
+  * supervised by Xiaoheng Jiang 
     
 
 Work experience
