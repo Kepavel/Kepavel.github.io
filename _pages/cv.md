@@ -21,6 +21,7 @@ Education
 * Zhengzhou University（Sep.2016-Jun.2020）
   * Bachelor's degree in Computer Science and Technology
   * Cumulative GPA: 3.09/4.0, Major GPA: 3.41/4.0
+  * IELTS: 6.5
 
 Research experience
 ======
@@ -73,6 +74,6 @@ Honors and awards
 
 Attachments
 =====
-* [Certificate of Bachelor's Degree](http://Kepavel.github.io/files/202109061443174647623.pdf) & [Diploma](http://Kepavel.github.io/files/202109061443366461385.pdf) & [Academic Record](http://Kepavel.github.io/files/202109061444144097138.pdf)
+* [Certificate of Bachelor's Degree](http://Kepavel.github.io/files/202109061443174647623.pdf) & [Diploma](http://Kepavel.github.io/files/202109061443366461385.pdf) & [Academic Records/Transcripts](http://Kepavel.github.io/files/202109061444144097138.pdf)
   
   
