@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Hi, there, my name is Chaoqun Li. Currently I am working in [MediaTek](https://www.mediatek.com/) as an Android Developer based in Beijing, China. My primary responsibilities include developing new features and handling Feature/Module CRs for various chipsets.
 
 Before this, I was a student at [Zhengzhou University](http://english.zzu.edu.cn/). During my second year there, I joined the [Simulation robot laboratory of Zhengzhou University](http://xg.zzu.edu.cn/kytd/1521293776735.jhtml).
@@ -17,6 +18,7 @@ I started learning computer programming when I was a high school student. I've d
 
 During my downtime, I like playing games and skateboarding, you may find me at Wangjing Park trying to pull off kickflips on a skateboard every weekends. Also I am starting to play Elden Ring recently, still blocking in Ancestor Spirit.
 
+<span style="color:green">Currently I've been looking for RA in distributed computing system and mobile computing.</span>
 To learn more about me, you can have a view of my CV page [here](https://www.keparal.cn/cv/).
 
 
