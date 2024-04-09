@@ -56,15 +56,15 @@ Work experience
 
 Projects
 ======
-* Rhythm Player Application: 
+* [Rhythm Player Application](https://github.com/Kepavel/bpm_analyse1.0): 
   * C++, Java
   * Used [SoundTouch open source libraries](https://www.surina.net/soundtouch/) to develop a music player with step frequency and music beat matching.
   * Core features：BPM analysis, step frequency detection, MP3 player.
 
-* Logistics management system:
-  * Java, Jave web
-  * Utilized Hibernate, Tomcat, and SQL server to construct an integrated logistics system, consisting of web application and mobile app
-  * Core features: QR code scanning, web dynamic updating, location tracking.
+* [Segment Anything Android Demo](https://github.com/Kepavel/sam-android):
+  * C++, Java
+  * Load SAM model and applied into Android Platform
+  * Core features: segment any object in picture by clicking.
 
 Honors and awards
 =====
