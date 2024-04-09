@@ -63,7 +63,7 @@ Projects
 
 * [Segment Anything Android Demo](https://github.com/Kepavel/sam-android):
   * C++, Java
-  * Load SAM model and applied into Android Platform
+  * Load SAM model and realize real-time object segmentation.
   * Core features: segment any object in picture by clicking.
 
 Honors and awards
