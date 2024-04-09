@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Hi, there, my name is Chaoqun Li. Currently I am working in [MediaTek](https://www.mediatek.com/) as an Android Developer based in Beijing, China. My primary responsibilities include developing new features and handling Feature/Module CRs for various chipsets.
 
 Before this, I was a student at [Zhengzhou University](http://english.zzu.edu.cn/). During my second year there, I joined the [Simulation robot laboratory of Zhengzhou University](http://xg.zzu.edu.cn/kytd/1521293776735.jhtml).
