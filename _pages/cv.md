@@ -20,7 +20,7 @@ Education
 ======
 * Zhengzhou University（Sep.2016-Jun.2020）
   * Bachelor's degree in Computer Science and Technology
-  * Cumulative GPA: 3.09/4.0 (Top 20%), Major GPA: 3.41/4.0
+  * Cumulative GPA: 3.09/4.0 (Top 20%), Major GPA: 3.53/4.0
   * IELTS: 6.5
 
 Research experience
