@@ -20,8 +20,6 @@ Education
 ======
 * Zhengzhou University（Sep.2016-Jun.2020）
   * Bachelor's degree in Computer Science and Technology
-  * Cumulative GPA: 3.09/4.0 (Top 20%), Major GPA: 3.53/4.0
-  * IELTS: 6.5
 
 Research experience
 ======
@@ -29,7 +27,6 @@ Research experience
   * Based on Background modeling, pedestrian detection, Yolo v3 and color feature recognition to detect construction in real-time pedestrains on site and capture their helmet wearing status.
   * Keyswords: Background modeling; Yolo v3; pedestrian detection; computer vision; color feature detection;
   * supervised by [Xiaoheng Jiang](https://jstudy.github.io/) 
-    
 
 Work experience
 ======
@@ -45,7 +42,6 @@ Work experience
   * Company: [MediaTek](https://www.mediatek.com/)
   * Duties included: Involved in Android development
 
-  
  Skills
 ======
 * Program Languages: Java, C/C++, Python
@@ -70,7 +66,6 @@ Honors and awards
 =====
 *  2018 China robot and artificial intelligence competition, Second Level (November, 2018)
 *  Zhengzhou University College of Information Engineering Annual Outstanding Student, Second Level (September, 2017)
-
 
 Attachments
 =====
