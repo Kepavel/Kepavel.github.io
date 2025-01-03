@@ -18,4 +18,4 @@ I’m always excited to connect with others who share similar research interests
 
 In my downtime, I enjoy playing games—currently exploring Baldur’s Gate—and skateboarding for fun.
 
-Feel free to reach out if you’re interested in research discussions or just want to [connect](cxl6029@mavs.uta.edu)!
+Feel free to reach out if you’re interested in research discussions or just want to <a href="mailto:cxl6029@mavs.uta.edu">connect</a>!
