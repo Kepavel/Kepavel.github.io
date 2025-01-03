@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
 Hi there,
 
 My name is Chaoqun Li, and I’m a Ph.D. candidate in the [Computer Science and Engineering (CSE) department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the University of Texas at Arlington (UTA). My research focuses on Graph Algorithms and Graph Neural Networks (GNN), with a passion for tackling challenges in graph-based systems and computational tasks.
